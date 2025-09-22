@@ -1,4 +1,5 @@
-docker compose for multi container steup:
+i m workig on a new feature, instead of directly starting with a new branch, i make a copy of code and work on there. Later, when i try to integrate my changes into main line, git refuses to do a fast forward merge and reports confllict,.Resolve
+i keep main branch as final source 
+conflict is fiex and history shows the merge clearly
 
-wrute a docker compose.yml fil to run multiplw instances
-ddemonstatre scaling onwof the servies to 4 instances
+
