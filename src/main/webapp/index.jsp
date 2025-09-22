@@ -7,7 +7,7 @@
 
     <h1 style="color: #2c3e50;">Welcome to the Virtual Event Platform</h1>
     <p style="font-size: 16px; color: #555;">
-        Manage and attend online events with ease!
+        Manage and attend online events with ease!!!
     </p>
 
     <h3>What do you want to do?</h3>
