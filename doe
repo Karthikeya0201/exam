@@ -1,0 +1,4 @@
+docker compose for multi container steup:
+
+wrute a docker compose.yml fil to run multiplw instances
+ddemonstatre scaling onwof the servies to 4 instances
